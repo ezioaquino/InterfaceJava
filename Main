@@ -1,0 +1,12 @@
+public class Main {
+    public static void main(String[] args) {
+
+        Leao animal1 = new Leao();
+        Passaro animal2 = new Passaro();
+        Peixe animal3 = new Peixe();
+
+        animal1.mover();
+        animal2.mover();
+        animal3.mover();
+    }
+}
