@@ -1,0 +1,7 @@
+public class Leao implements Animal{
+
+    @Override
+    public void mover() {
+        System.out.println("Leão se movendo");
+    }
+}
